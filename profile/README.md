@@ -1,1 +1,1 @@
-fork of LineageOS with some extra necessary features
+fork of LineageOS with iOS sytle adaption & features
